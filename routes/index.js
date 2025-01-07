@@ -10,5 +10,4 @@ router.get('/', horaMiddleware, (req, res)=>{
     `)
 })
 
-
 module.exports = router;
